@@ -18,7 +18,7 @@ In MacOS, run file install.command or run at terminal:
 ```./install.command```
 
 In Linux distro, run at terminal:
-```./install.sh```
+```sudo ./install.sh```
 
 ## Usage
 To show version:

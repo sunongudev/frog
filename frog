@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python /usr/local/Cellar/frog@0.1/main.py $1 $2 $3
